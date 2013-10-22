@@ -6,4 +6,5 @@ This' a demo to test jekyll following
 
 Note:
   Pay attention to the chinese characters, you need convernt them to utf-8,
-  otherwise they can't be shown correctly. You may found '404' page not found error.
+  otherwise they can't be shown correctly. You may found '404 page not found'
+  error.
