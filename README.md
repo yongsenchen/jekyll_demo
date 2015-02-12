@@ -18,4 +18,5 @@ Refer to:
 [2] http://jekyllbootstrap.com/usage/jekyll-quick-start.html
 
 Note: in order to simpify git access, do as bellow:
+
   git remote set-url origin git@github.com:USERNAME/USERNAME.github.com.git
