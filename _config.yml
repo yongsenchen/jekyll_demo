@@ -1,1 +1,4 @@
 baseurl: /jekyll_demo
+markdown:kramdown
+kramdown:
+  input:GFM
