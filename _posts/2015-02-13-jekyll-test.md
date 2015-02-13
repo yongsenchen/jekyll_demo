@@ -72,6 +72,12 @@ int add(int a, int b)
 	return a + b;
 }
 ```
+{% highlight c %}
+int add(int a, int b)
+{
+	return a + b;
+}
+{% endhighlight %}
 
 ### Task Lists
 
