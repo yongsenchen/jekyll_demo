@@ -1,6 +1,1 @@
 baseurl: /jekyll_demo
-
-highlighter: pygments
-
-kramdown:
-  input: GFM
