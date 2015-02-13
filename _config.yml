@@ -1,5 +1,5 @@
 baseurl: /jekyll_demo
 highlighter: pygments
-markdown: kramdown
+markdown: redcarpet
 kramdown:
   input: GFM
