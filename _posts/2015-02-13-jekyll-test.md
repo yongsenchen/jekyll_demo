@@ -66,12 +66,13 @@ I think you should use an
 
 ### Syntax highlighting
 
-```c
+~~~c
 int add(int a, int b)
 {
 	return a + b;
 }
-```
+~~~
+
 {% highlight c %}
 int add(int a, int b)
 {
