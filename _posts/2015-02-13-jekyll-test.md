@@ -66,6 +66,18 @@ I think you should use an
 
 ### Syntax highlighting
 
+	int add(int a, int b)
+	{
+		return a + b;
+	}
+
+```c
+int add(int a, int b)
+{
+	return a + b;
+}
+```
+
 ~~~c
 int add(int a, int b)
 {
