@@ -1,6 +1,6 @@
 baseurl: /jekyll_demo
 highlighter: pygments
-markdown: redcarpet2
+#markdown: redcarpet2
 #markdown: redcarpet
 #markdown: kramdown
 #kramdown:
