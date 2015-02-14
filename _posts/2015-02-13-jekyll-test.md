@@ -66,10 +66,14 @@ I think you should use an
 
 ### Syntax highlighting
 
+#### Just tab
+
 	int add(int a, int b)
 	{
 		return a + b;
 	}
+
+#### use ```c
 
 ```c
 int add(int a, int b)
@@ -78,12 +82,16 @@ int add(int a, int b)
 }
 ```
 
+#### use ~~~c
+
 ~~~c
 int add(int a, int b)
 {
 	return a + b;
 }
 ~~~
+
+#### use highligt
 
 {% highlight c %}
 int add(int a, int b)
