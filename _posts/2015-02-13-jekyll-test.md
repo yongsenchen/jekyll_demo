@@ -73,7 +73,7 @@ I think you should use an
 		return a + b;
 	}
 
-#### use ```c
+#### use c
 
 ```c
 int add(int a, int b)
@@ -82,7 +82,7 @@ int add(int a, int b)
 }
 ```
 
-#### use ~~~c
+#### use c
 
 ~~~c
 int add(int a, int b)
