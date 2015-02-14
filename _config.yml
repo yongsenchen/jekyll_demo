@@ -5,7 +5,7 @@ markdown: redcarpet
 # refer to http://sholsinger.com/2014/03/jekyll-github-flavored-markdown
 # refer to http://stackoverflow.com/questions/16099153/table-not-render-when-use-redcarpet-in-jekyll-github-pages
 redcarpet:
-  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript", "with_toc_data"]
+  extensions: ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "strikethrough", "superscript"]
   
 #markdown: kramdown
 #kramdown:
