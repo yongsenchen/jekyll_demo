@@ -3,8 +3,6 @@ layout: default
 title: Tables Highlight Test2
 ---
 
-Test Scripts from https://guides.github.com/features/mastering-markdown/
-
 ### Syntax highlighting
 
 #### Just tab
